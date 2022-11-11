@@ -1,0 +1,81 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 250%;
+}
+p{
+    font-size: 140%;
+}
+span{
+    font-size: 140%;
+}
+a{
+    font-size: 140%;
+}
+article{
+
+    margin-left: 3%;
+}
+
+.estilo1{
+    float: left;
+    margin-top: 3%;
+}
+.posicion-logo{
+    float: left;
+margin-top: 5%;
+}
+.formulario{
+clear: both;
+margin-left: 18%;
+border: 0;
+}
+label{
+    font-size: 150%;
+    font-weight: bold;
+    display: inline-block;
+    width: 120%;
+    margin-top: 15px;
+}
+input{
+    margin-top: 10px;
+    height: 30px;
+    width: 30%;
+}
+fieldset{
+    border: 0ch;
+}
+.box{
+    font-size: 18px;
+}
+.first{
+    position: relative;
+}
+.second{
+    position: absolute;
+    left: 41%;
+    top: 69%;
+}
+#checkbox{
+    font-size: 17px;
+    position: relative;
+    left: 21%;
+    margin-top: -50px;
+}   
+button{
+    font-size: larger;
+    height: 60px;
+    width: 200;
+
+}
+.terminos-priv{
+    font-size: smaller;
+}
+span a{
+    font-size: medium;
+}
+.alinear{
+    margin-left: -150px;
+}
+body{
+    background-color: rgb(190, 241, 249);
+}

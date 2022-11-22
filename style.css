@@ -1,9 +1,15 @@
+.contenedor{
+    display: inline-block;
+    width: 100%;
+}
+
 h1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 250%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75px;
+    font-weight: 100;
 }
 p{
-    font-size: 140%;
+    font-size: 141%;
 }
 span{
     font-size: 140%;
@@ -77,5 +83,5 @@ span a{
     margin-left: -150px;
 }
 body{
-    background-color: rgb(190, 241, 249);
+
 }
